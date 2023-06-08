@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.hero-section {
+    background-color: #9b7bc9;
+    height: 95vh;
+}
+
+.hero-section2 {
+    background-color: #e6e0dc;
+    height: 80vh;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+ /* Applying CSS to sphere */
+.tagcloud {
+  letter-spacing: 1px;
+  font-size: 20px;
+}
+
+/* Change color of each text in sphere on hover   */
+.tagcloud--item:hover {
+  color: #9b7bc9; ;
+}
