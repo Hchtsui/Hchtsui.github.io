@@ -21,6 +21,3 @@ const Texts = [
   
   });
   
-  // Giving color to each text in sphere
-  let color = '#FFFFFF ';
-  document.querySelector('.Sphere').style.color = color;

@@ -14,12 +14,29 @@
     height: 80vh;
 }
 
+.hero-section3 {
+  background-color: #8e8fdf;
+  height: 60vh;
+}
+
+.hero-section4 {
+  background-color: #9d7bc4;
+  height: 60vh;
+}
+
+.hero-section5{
+  background-color: #e6e0dc;
+  height: 28vh;
+}
+
 @import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
 
 
 
  /* Applying CSS to sphere */
 .tagcloud {
+  margin-top: 20%;
+  margin-left: 20%;
   letter-spacing: 1px;
   font-size: 20px;
 }
@@ -28,3 +45,62 @@
 .tagcloud--item:hover {
   color: #9b7bc9; ;
 }
+
+.welcome h4 {
+  font-size: 2em;
+}
+
+.welcome h2 {
+  font-size: 5vw;
+  margin: 20px 0px;
+}
+
+.welcome h3 {
+
+  font-size: 2vw;
+}
+
+.welcome p {
+  width: 750px;
+  font-size: 20px;
+  line-height: 1.5;
+  margin: 20px 0px;
+}
+
+.pictureht {
+  height: 50vh;
+  margin-top: 20%;
+  margin-left: 30%;
+}
+
+
+.card {
+  border: 3px solid black;
+  border-radius: 1%;
+
+}
+
+.card-body-skills {
+  background-color: #7d3b98;
+
+}
+
+.Project1{
+  margin-left: 10%;
+}
+
+.contact-btn {
+  width: 25vh;
+  color: black;
+  border-radius: 10em;
+  font-size: 17px;
+  padding: 1em 2em;
+}
+
+.contact1{
+  margin-left: 10%;
+
+}
+
+
+
